@@ -1,8 +1,6 @@
 # tunnels-script
 
-Load multiple tunnels on different ports.
-
-Before runni
+Load multiple tunnels on different ports. Work on windows
 
 Need to be installed:
 
