@@ -9,7 +9,7 @@ Need to be installed:
 - node
 - lt - npm package
 
-# Before running the script, please check the paths to the env files in `utils.js`:
+### Before running the script, please check the paths to the env files in `utils.js`:
 
 - backendEnvPath
 - frontendSupplierEnvPath
